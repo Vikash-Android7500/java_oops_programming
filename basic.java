@@ -25,25 +25,25 @@ public class basic{
         // for Loop(initialisation; condition; updation)
     
         F_1.FInal_print();
-        // Stack_2.stack2_print();
-        // constructorAddition.ADD_Constructors();
-        // difference.SET_get();
-        // SimpleGetterAndSetter.SET_GET();
-        // Rec_Test.Recursion_arrary_print();
-        // Factorial_1.recursion();
-        // Object_Parameters_2.OBJECT_2();
-        // Object_Parameters.PRINT_OBJECT_PARAMENTERS();
-        // Overloading_Constructors.all_overloading_constructors();
-        // Overloading_Method_2.Test2();
-        // Overloading_Method.overloading_method();
-        // Stack.ALL();
-        // THISkeyword.constructors();
-        // ReturnStatment.arrDiplay(); 
-        // fibonacciNumber.display();
-        // System.out.println();
-        // constructorS.VIEW();
-        // constructorReturn.multi();
-        // PerametrConstructor.Pera();      
+        Stack_2.stack2_print();
+        constructorAddition.ADD_Constructors();
+        difference.SET_get();
+        SimpleGetterAndSetter.SET_GET();
+        Rec_Test.Recursion_arrary_print();
+        Factorial_1.recursion();
+        Object_Parameters_2.OBJECT_2();
+        Object_Parameters.PRINT_OBJECT_PARAMENTERS();
+        Overloading_Constructors.all_overloading_constructors();
+        Overloading_Method_2.Test2();
+        Overloading_Method.overloading_method();
+        Stack.ALL();
+        THISkeyword.constructors();
+        ReturnStatment.arrDiplay(); 
+        fibonacciNumber.display();
+        System.out.println();
+        constructorS.VIEW();
+        constructorReturn.multi();
+        PerametrConstructor.Pera();      
     }
    
 }
