@@ -9,6 +9,7 @@ import overloading.Overloading_Method;
 import overloading.Overloading_Method_2;
 import DSA.Recursion.*;
 import DSA.Stack.Stack;
+import DSA.Stack.Stack_2;
 import Getter_Setter.SimpleGetterAndSetter;
 import Getter_Setter.difference;
 import DSA.fibonacciNumber;
@@ -22,6 +23,7 @@ public class basic{
         // byte, Short, int, float, long, double, String, char, boolean
         // for Loop(initialisation; condition; updation)
     
+        Stack_2.stack2_print();
         constructorAddition.ADD_Constructors();
         difference.SET_get();
         SimpleGetterAndSetter.SET_GET();
