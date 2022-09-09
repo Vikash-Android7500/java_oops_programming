@@ -10,6 +10,7 @@ import overloading.Overloading_Method_2;
 import DSA.Recursion.*;
 import DSA.Stack.Stack;
 import DSA.Stack.Stack_2;
+import DSA.Stack.Stack_3;
 import Final_keyword.F_1;
 import Getter_Setter.SimpleGetterAndSetter;
 import Getter_Setter.difference;
@@ -24,6 +25,7 @@ public class basic{
         // byte, Short, int, float, long, double, String, char, boolean
         // for Loop(initialisation; condition; updation)
     
+        Stack_3.Test_stack_3();
         F_1.FInal_print();
         Stack_2.stack2_print();
         constructorAddition.ADD_Constructors();
