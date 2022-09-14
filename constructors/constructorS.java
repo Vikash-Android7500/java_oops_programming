@@ -1,7 +1,7 @@
 package constructors;
 
 public class constructorS {
-      String Name1 = "";
+      String Name1;
       int Age;
 
 
