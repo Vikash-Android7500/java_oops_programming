@@ -16,23 +16,22 @@ import GUI.Event_Handing;
 import GUI.java_swing;
 import Getter_Setter.SimpleGetterAndSetter;
 import Getter_Setter.difference;
+import Inheritance.inheritance_1;
 import Nested_Class.Outer;
 import Nested_Class.Outer_2;
 import DSA.fibonacciNumber;
 import Return_1.ReturnStatment;
 import THIS_Keyword.THISkeyword;
 
-
-public class basic{
+public class basic {
 
     public static void main(String[] args) {
         // byte, Short, int, float, long, double, String, char, boolean
         // for Loop(initialisation; condition; updation)
-    
 
-    
-        Outer.CLASS_P2();
-        Outer_2.CLASS_print2();
+        inheritance_1.inheritancePrint();
+        // Outer.CLASS_P2();
+        // Outer_2.CLASS_print2();
         // Event_Handing.button_click();
         // java_swing.run_program();
         // Stack_3.Test_stack_3();
@@ -49,13 +48,13 @@ public class basic{
         // Overloading_Method_2.Test2();
         // Overloading_Method.overloading_method();
         // Stack.ALL();
-        THISkeyword.constructors();
-        // ReturnStatment.arrDiplay(); 
+        // THISkeyword.constructors();
+        // ReturnStatment.arrDiplay();
         // fibonacciNumber.display();
         // System.out.println();
         // constructorS.VIEW();
         // constructorReturn.multi();
-        // PerametrConstructor.Pera();      
+        // PerametrConstructor.Pera();
     }
-   
+
 }
