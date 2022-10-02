@@ -6,6 +6,13 @@
      "configurations": [
           {
                "type": "java",
+               "name": "Launch MainMathod",
+               "request": "launch",
+               "mainClass": "MainMathod",
+               "projectName": "newjava_2065859f"
+          },
+          {
+               "type": "java",
                "name": "Launch Current File",
                "request": "launch",
                "mainClass": "${file}"

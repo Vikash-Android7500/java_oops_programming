@@ -12,6 +12,7 @@ import Data_Structure.Recursion.*;
 import Data_Structure.Stack.Stack;
 import Data_Structure.Stack.Stack_2;
 import Data_Structure.Stack.Stack_3;
+import Data_Structure.funcations_and_Arrery.Digit_Frequency;
 import Data_Structure.funcations_and_Arrery.Funcation_1;
 import Encapsulationg.SimpleGetterAndSetter;
 import Encapsulationg.difference;
@@ -30,7 +31,8 @@ public class MainMathod {
         // byte, Short, int, float, long, double, String, char, boolean
         // for Loop(initialisation; condition; updation)
 
-        Funcation_1.Funcation_run();
+        Digit_Frequency.Digit_run();
+        // Funcation_1.Funcation_run();
         // inheritance_1.inheritancePrint();
         // Outer.CLASS_P2();
         // Outer_2.CLASS_print2();
