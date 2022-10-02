@@ -20,7 +20,7 @@ public class Funcation_1 {
           }
      }
 
-     //return funcation
+     //Return funcation
      static int fact(int x){
           int rv = 1;
 
@@ -30,7 +30,7 @@ public class Funcation_1 {
           return rv;
      }
 
-     //funcation
+     //funcation in Display
      static void display(int n, int r, int npr){
           System.out.println("This Resualt ".toUpperCase());
           System.out.println(n + " p ".toUpperCase() + r + " = " + npr);
