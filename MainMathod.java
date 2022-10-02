@@ -24,7 +24,7 @@ import Nested_Class.Outer_2;
 import Return_1.ReturnStatment;
 import THIS_Keyword.THISkeyword;
 
-public class basic {
+public class MainMathod {
 
     public static void main(String[] args) {
         // byte, Short, int, float, long, double, String, char, boolean
