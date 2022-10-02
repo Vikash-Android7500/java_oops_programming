@@ -1,4 +1,4 @@
-package DSA.Stack;
+package Data_Structure.Stack;
                                //Program Date = 9/09/2022
 public class Stack_3 {
      private int[] stck;

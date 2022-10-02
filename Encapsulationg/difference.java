@@ -1,4 +1,4 @@
-package Getter_Setter;
+package Encapsulationg;
 
 //Getter Setter
 public class difference {

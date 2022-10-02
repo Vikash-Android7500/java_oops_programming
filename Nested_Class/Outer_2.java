@@ -11,10 +11,10 @@ public class Outer_2 {
                          System.out.println(S);
                     }
                }
-                                                                                                             
+
                Inner inner = new Inner();
                System.out.println("_______________");
-               inner.Display(200);
+               inner.Display(300);
           }
      }
 

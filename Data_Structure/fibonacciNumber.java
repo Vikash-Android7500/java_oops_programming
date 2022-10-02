@@ -1,4 +1,4 @@
-package DSA;
+package Data_Structure;
 
 public class fibonacciNumber{
   static int Number = 5;

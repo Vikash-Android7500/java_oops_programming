@@ -1,4 +1,4 @@
-package DSA.Stack;
+package Data_Structure.Stack;
 
 public class Stack_2 {
      private int[] stack = new int [10]; 

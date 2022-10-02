@@ -7,19 +7,20 @@ import overloading.Object_Parameters_2;
 import overloading.Overloading_Constructors;
 import overloading.Overloading_Method;
 import overloading.Overloading_Method_2;
-import DSA.Recursion.*;
-import DSA.Stack.Stack;
-import DSA.Stack.Stack_2;
-import DSA.Stack.Stack_3;
+import Data_Structure.fibonacciNumber;
+import Data_Structure.Recursion.*;
+import Data_Structure.Stack.Stack;
+import Data_Structure.Stack.Stack_2;
+import Data_Structure.Stack.Stack_3;
+import Data_Structure.funcations_and_Arrery.Funcation_1;
+import Encapsulationg.SimpleGetterAndSetter;
+import Encapsulationg.difference;
 import Final_keyword.F_1;
 import GUI.Event_Handing;
 import GUI.java_swing;
-import Getter_Setter.SimpleGetterAndSetter;
-import Getter_Setter.difference;
 import Inheritance.inheritance_1;
 import Nested_Class.Outer;
 import Nested_Class.Outer_2;
-import DSA.fibonacciNumber;
 import Return_1.ReturnStatment;
 import THIS_Keyword.THISkeyword;
 
@@ -29,7 +30,8 @@ public class basic {
         // byte, Short, int, float, long, double, String, char, boolean
         // for Loop(initialisation; condition; updation)
 
-        inheritance_1.inheritancePrint();
+        Funcation_1.Funcation_run();
+        // inheritance_1.inheritancePrint();
         // Outer.CLASS_P2();
         // Outer_2.CLASS_print2();
         // Event_Handing.button_click();
