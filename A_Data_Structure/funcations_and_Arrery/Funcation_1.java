@@ -1,4 +1,4 @@
-package Data_Structure.funcations_and_Arrery;
+package A_Data_Structure.funcations_and_Arrery;
 
 import java.util.Scanner;
 

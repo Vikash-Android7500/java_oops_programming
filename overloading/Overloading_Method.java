@@ -1,8 +1,25 @@
 package overloading;
 
 public class Overloading_Method {
-     void test(){
-          System.out.println("no paramiters".toLowerCase());
+     void test(double item0, double item1, double item2 ){
+          System.out.println("patten ".toLowerCase());
+          
+          for (int i = 0; i <= item0; i++) {
+               for (int j = 0; j <= i; j++) {
+                    System.out.print(" * ");
+               }
+               // Adition if else
+               if (item0 < item1) {
+                    item2 = item0 + item1;
+               } else {
+                    item0 = (item1 + item2) * 5;
+               }
+               System.out.println();
+               System.out.println();
+          }
+
+         
+          
      }
 
      void test(int item1){
@@ -22,7 +39,7 @@ public class Overloading_Method {
           Overloading_Method method = new Overloading_Method();
           double resualt;
           //call all variables of test.
-          method.test();
+          method.test(4, 5, 5);
           method.test(10);
           method.test(20, 30);
           resualt = method.test(125.50);

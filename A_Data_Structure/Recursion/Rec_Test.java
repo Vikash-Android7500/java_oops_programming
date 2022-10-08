@@ -1,4 +1,4 @@
-package Data_Structure.Recursion;
+package A_Data_Structure.Recursion;
 
 //Recusion 2
 public class Rec_Test {

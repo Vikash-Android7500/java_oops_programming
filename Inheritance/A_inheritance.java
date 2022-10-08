@@ -1,8 +1,8 @@
 package Inheritance;
 
 //Date > 14/09/2022
-//paren Class
-public class inheritance_1 {
+//super Class
+public class A_inheritance {
      int one;
      int two;
 
@@ -10,9 +10,9 @@ public class inheritance_1 {
           System.out.println("one   and  two: Parent Class  " + one + " " + two);
      }
 
-     // Println in Main class
+     // Run Program.
      public static void inheritancePrint() {
-          inheritance_1 A = new inheritance_1();
+          A_inheritance A = new A_inheritance();
           Inheritance2 B = new Inheritance2();
 
           A.one = 10;
@@ -35,8 +35,8 @@ public class inheritance_1 {
 
 }
 
-// chaild Class Extends inheritance_1
-class Inheritance2 extends inheritance_1 {
+// chaild Class Extends to inheritance_1
+class Inheritance2 extends A_inheritance {
      int five;
 
      void showFIVE() {

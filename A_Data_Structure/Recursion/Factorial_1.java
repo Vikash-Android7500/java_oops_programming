@@ -1,4 +1,4 @@
-package Data_Structure.Recursion;
+package A_Data_Structure.Recursion;
 
 //Recusion 1
 public class Factorial_1 {

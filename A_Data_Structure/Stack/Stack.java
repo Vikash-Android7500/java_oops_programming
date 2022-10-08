@@ -1,4 +1,4 @@
-package Data_Structure.Stack;
+package A_Data_Structure.Stack;
 public class Stack {
      int[] stack = new int [10];
      int TOS;
