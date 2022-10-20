@@ -19,9 +19,11 @@ import Encapsulationg.difference;
 import Final_keyword.F_1;
 import GUI.Event_Handing;
 import GUI.java_swing;
+import Inheritance.A_inheritance;
 import Inheritance.B_Access_Inheritance;
 import Inheritance.C_Box;
-import Inheritance.A_inheritance;
+import Inheritance.D_Box_Abstract;
+import Inheritance.E_Figure;
 import Nested_Class.Outer;
 import Nested_Class.Outer_2;
 import Return_1.ReturnStatment;
@@ -35,9 +37,12 @@ public class MainMathod {
 
         // Digit_Frequency.Digit_run();
         // Funcation_1.Funcation_run();
-        C_Box.Box_Run();
-        // Access_Inheritance.Access_Inheritance_run();
-        // inheritance_1.inheritancePrint();
+
+        // A_inheritance.inheritancePrint();
+        // B_Access_Inheritance.Access_Inheritance_run();
+        // C_Box.Box_Run();
+        // D_Box_Abstract.RUN_PROGRAM();
+        // E_Figure.RUN_FIGRURE();
         // Outer.CLASS_P2();
         // Outer_2.CLASS_print2();
         // Event_Handing.button_click();
@@ -54,7 +59,7 @@ public class MainMathod {
         // Object_Parameters.PRINT_OBJECT_PARAMENTERS();
         // Overloading_Constructors.all_overloading_constructors();
         // Overloading_Method_2.Test2();
-        Overloading_Method.overloading_method();
+        // Overloading_Method.overloading_method();
         // Stack.ALL();
         // THISkeyword.constructors();
         // ReturnStatment.arrDiplay();
@@ -63,6 +68,9 @@ public class MainMathod {
         // constructorS.VIEW();
         // constructorReturn.multi();
         // PerametrConstructor.Pera();
+
+
+       
     }
 
 }

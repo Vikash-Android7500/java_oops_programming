@@ -36,3 +36,4 @@ public class Funcation_1 {
           System.out.println(n + " p ".toUpperCase() + r + " = " + npr);
      }
 }
+

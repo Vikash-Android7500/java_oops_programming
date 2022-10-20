@@ -9,6 +9,13 @@
                "name": "Launch MainMathod",
                "request": "launch",
                "mainClass": "MainMathod",
+               "projectName": "javaOOPs_76f11ee8"
+          },
+          {
+               "type": "java",
+               "name": "Launch MainMathod",
+               "request": "launch",
+               "mainClass": "MainMathod",
                "projectName": "newjava_2065859f"
           },
           {
