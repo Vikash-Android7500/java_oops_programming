@@ -7,6 +7,8 @@ import overloading.Object_Parameters_2;
 import overloading.Overloading_Constructors;
 import overloading.Overloading_Method;
 import overloading.Overloading_Method_2;
+import p1.Protection;
+import p2.Protection2;
 import A_Data_Structure.fibonacciNumber;
 import A_Data_Structure.Recursion.*;
 import A_Data_Structure.Stack.Stack;
@@ -37,7 +39,8 @@ public class MainMathod {
 
         // Digit_Frequency.Digit_run();
         // Funcation_1.Funcation_run();
-
+        Protection.package_Run();
+        Protection2.package_Run_2();
         // A_inheritance.inheritancePrint();
         // B_Access_Inheritance.Access_Inheritance_run();
         // C_Box.Box_Run();
@@ -68,8 +71,6 @@ public class MainMathod {
         // constructorS.VIEW();
         // constructorReturn.multi();
         // PerametrConstructor.Pera();
-
-
        
     }
 
